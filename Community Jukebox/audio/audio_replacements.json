@@ -69,4 +69,5 @@
     "Mr.DarkBattle": { "File": "Mr. Dark Battle.ogg", "Type": "Music", "Name": "Mr.DarkBattle", "SoundTestVisibility": "Hidden" },
     "BFGDivision": { "File": "BFG Division.ogg", "Type": "Music", "Name": "BFGDivision", "SoundTestVisibility": "Hidden" },
     "DROPTHEBOMB": { "File": "DROP THE BOMB.ogg", "Type": "Music", "Name": "DROPTHEBOMB", "SoundTestVisibility": "Hidden" },
+    "axel_f": { "File": "Harold Faltermeyer - Axel F (1984) Beverly Hills Cop - Soundtrack.ogg", "Type": "Music", "Name": "axel_f", "SoundTestVisibility": "Hidden" },
 }
