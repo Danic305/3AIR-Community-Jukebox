@@ -56,5 +56,6 @@
     "Mr.DarkBattle":    { "File": "Mr.DarkBattle.png", "Rect": "0,0,72,24", "Center": "16,6" },
     "BFGDivision":    { "File": "BFGDivision.png", "Rect": "0,0,72,24", "Center": "16,6" },
     "DROPTHEBOMB":    { "File": "DROPTHEBOMB.png", "Rect": "0,0,72,24", "Center": "16,6" },
+    "Axel-F":	{ "File": "axel_f.png", "Rect": "0,0,72,24", "Center": "16,6" },
 
 }
